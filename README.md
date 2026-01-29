@@ -1,4 +1,5 @@
 # *JF* $u$ $s$ $i$ $o$ $n$
+![preview](preview.png)
  Collection of dotfiles for the 'jfusion' theme, built for hyprland, primarily laptops
 
 # Dependencies
