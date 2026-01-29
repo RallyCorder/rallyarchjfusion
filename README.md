@@ -1,2 +1,14 @@
-# rallyarchjfusion
- Collection of dotfiles for the 'jfusion' theme
+# *JF* $u$ $s$ $i$ $o$ $n$
+ Collection of dotfiles for the 'jfusion' theme, built for hyprland, primarily laptops
+
+# Dependencies
+## Software
+- `wofi`
+- `dunst`
+- `waybar`
+
+## Fonts
+- `oft-font-awesome` for icons
+- `76London` as primary
+- `OCR A` as secondary
+
