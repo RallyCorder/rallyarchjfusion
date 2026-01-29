@@ -1,0 +1,39 @@
+window {
+background: linear-gradient(rgba(213,0,192,0.75), rgb(255,149,155));
+}
+
+#input {
+margin: 5px;
+border: none;
+color: rgb(134, 243, 192);
+background-color: rgba(109,59,236,0.25);
+font-family: '76London';
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background: linear-gradient(rgba(109,59,236,0.75) 0%, rgba(87,199,133,0.75) 25%, rgba(213,0,192, 0.75));
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: rgba(109,59,236,0.15);
+}
+
+#text {
+margin: 5px;
+border: none;
+color: rgb(137, 186, 247);
+font-family: '76London';
+}
+
+#entry:selected {
+background-color: rgba(134, 243, 192,0.25);
+color: rgb(255, 255, 255);
+}
+
+#entry {
+    background-color: rgba(72, 0, 255, 0.25);
+}
